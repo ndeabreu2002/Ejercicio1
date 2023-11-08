@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculoIVAGUI",
+            "request": "launch",
+            "mainClass": "CalculoIVAGUI",
+            "projectName": "Ejercicio1_c252e77d"
+        },
+        {
+            "type": "java",
+            "name": "CalculoIvaGUI",
+            "request": "launch",
+            "mainClass": "CalculoIvaGUI",
+            "projectName": "Ejercicio1_c252e77d"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
